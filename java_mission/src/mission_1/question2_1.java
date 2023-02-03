@@ -1,6 +1,6 @@
 package mission_1;
 
-public class quesiont2_1 {
+public class question2_1 {
 
 	public static void main(String[] args) {
 		int number = 5;
